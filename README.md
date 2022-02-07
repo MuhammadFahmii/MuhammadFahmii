@@ -7,4 +7,4 @@
 
 ![stats-all](https://github-readme-stats.vercel.app/api?username=muhammadfahmii)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfahmii)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfahmii&show_icons=true&locale=en&layout=compact)
